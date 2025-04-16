@@ -1,0 +1,19 @@
+.odd-class {
+    background-color: rgb(255, 192, 203);
+    font-family: Verdana, "Dejavu Sans", sans-serif;
+}
+
+#odd-id {
+    color: rgb(0,0,255);
+    font-size: 36px;
+}
+
+#even-id {
+    background-color: rgb(150, 255, 150);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.odd-class.third {
+    font-size: 24px;
+}

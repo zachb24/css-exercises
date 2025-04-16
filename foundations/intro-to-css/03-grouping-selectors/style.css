@@ -1,0 +1,13 @@
+.blkbut, .ylwbut {
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size: 28px;
+}
+
+.blkbut {
+    background-color: black;
+    color: white;
+}
+
+.ylwbut {
+    background-color: yellow;
+}
